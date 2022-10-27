@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
+### 🔭 I’m working on tencent before, currently working on CSDC
+### 🌱 I’m a golang backend developer
+### 📫 How to reach me: send e-mail for xd_zhangjq@163.com
+
+## Have a nice day!
 <!--
 **HermesNamco/HermesNamco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
