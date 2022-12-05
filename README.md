@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hermesnamco&label=Profile%20views&color=0e75b6&style=flat" alt="hermesnamco" /> </p>
 
-- 🔭 I’m currently working on **CSDS, and is a Tencent developer before**
+- 🔭 I’m currently working on **CSDC, and is a Tencent developer before**
 
 - 📫 How to reach me **xd_zhangjq@163.com**
 
